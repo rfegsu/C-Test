@@ -14,9 +14,8 @@ namespace RectangleApp
         }
         public double GetArea()
         {
-            return length*width;
+            return length * width;
         }
-
         public void Display()
         {
             Console.WriteLine("Length {0}", length);
@@ -31,7 +30,7 @@ namespace RectangleApp
         {
             Rectangle r = new Rectangle();
             r.AcceptDetails();
-            r.Display(); 
+            r.Display();
         }
     }
 }

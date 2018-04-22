@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fergus\\Documents\\Test\\RectangleApp\\RectangleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Fergus\\Documents\\C-Test\\RectangleApp\\RectangleApp.csproj",
       "projectName": "RectangleApp",
-      "projectPath": "C:\\Users\\Fergus\\Documents\\Test\\RectangleApp\\RectangleApp.csproj",
+      "projectPath": "C:\\Users\\Fergus\\Documents\\C-Test\\RectangleApp\\RectangleApp.csproj",
       "packagesPath": "C:\\Users\\Fergus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fergus\\Documents\\Test\\RectangleApp\\obj\\",
+      "outputPath": "C:\\Users\\Fergus\\Documents\\C-Test\\RectangleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
