@@ -5,7 +5,6 @@ namespace RectangleApp
     {
         double length;
         double width;
-
         public void AcceptDetails()
         {
             length = 4.5;
@@ -22,7 +21,6 @@ namespace RectangleApp
             Console.WriteLine("Area {0}", GetArea());
         }
     }
-
     class ExecuteRectangle
     {
         static void Main(string[] args)
