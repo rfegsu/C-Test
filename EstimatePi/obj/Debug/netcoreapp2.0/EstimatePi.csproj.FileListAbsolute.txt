@@ -1,0 +1,10 @@
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\bin\Debug\netcoreapp2.0\EstimatePi.deps.json
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\bin\Debug\netcoreapp2.0\EstimatePi.runtimeconfig.json
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\bin\Debug\netcoreapp2.0\EstimatePi.runtimeconfig.dev.json
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\bin\Debug\netcoreapp2.0\EstimatePi.dll
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\bin\Debug\netcoreapp2.0\EstimatePi.pdb
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\obj\Debug\netcoreapp2.0\EstimatePi.csproj.CoreCompileInputs.cache
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\obj\Debug\netcoreapp2.0\EstimatePi.AssemblyInfoInputs.cache
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\obj\Debug\netcoreapp2.0\EstimatePi.AssemblyInfo.cs
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\obj\Debug\netcoreapp2.0\EstimatePi.dll
+C:\Users\Fergus\Documents\Test\C-Test\EstimatePi\obj\Debug\netcoreapp2.0\EstimatePi.pdb
