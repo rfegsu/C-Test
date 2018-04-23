@@ -1,0 +1,10 @@
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\obj\Debug\netcoreapp2.0\linkedList.csproj.CoreCompileInputs.cache
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\obj\Debug\netcoreapp2.0\linkedList.AssemblyInfoInputs.cache
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\obj\Debug\netcoreapp2.0\linkedList.AssemblyInfo.cs
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\bin\Debug\netcoreapp2.0\linkedList.deps.json
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\bin\Debug\netcoreapp2.0\linkedList.runtimeconfig.json
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\bin\Debug\netcoreapp2.0\linkedList.runtimeconfig.dev.json
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\bin\Debug\netcoreapp2.0\linkedList.dll
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\bin\Debug\netcoreapp2.0\linkedList.pdb
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\obj\Debug\netcoreapp2.0\linkedList.dll
+C:\Users\Fergus\Documents\Test\C-Test\linkedList\obj\Debug\netcoreapp2.0\linkedList.pdb

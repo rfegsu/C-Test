@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fergus\\Documents\\Test\\C-Test\\EstimatePi\\EstimatePi.csproj",
-      "projectName": "EstimatePi",
-      "projectPath": "C:\\Users\\Fergus\\Documents\\Test\\C-Test\\EstimatePi\\EstimatePi.csproj",
+      "projectUniqueName": "C:\\Users\\Fergus\\Documents\\Test\\C-Test\\linkedList\\linkedList.csproj",
+      "projectName": "linkedList",
+      "projectPath": "C:\\Users\\Fergus\\Documents\\Test\\C-Test\\linkedList\\linkedList.csproj",
       "packagesPath": "C:\\Users\\Fergus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fergus\\Documents\\Test\\C-Test\\EstimatePi\\obj\\",
+      "outputPath": "C:\\Users\\Fergus\\Documents\\Test\\C-Test\\linkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
