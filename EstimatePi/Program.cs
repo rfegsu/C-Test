@@ -41,11 +41,11 @@ namespace EstimatePi
                     {
                         recDiff = diff;
                         recPi = pi;
-                        Console.WriteLine("New record: {0}", recPi);
+                        Console.WriteLine("New record:\n{0}", recPi);
                     }
                 }
             }
-            Console.WriteLine("Actual value of PI: {0}", Math.PI);
+            Console.WriteLine("Actual value of PI: \n{0}", Math.PI);
         }
     }
 }

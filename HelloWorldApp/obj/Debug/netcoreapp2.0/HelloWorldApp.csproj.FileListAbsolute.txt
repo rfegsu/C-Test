@@ -8,3 +8,13 @@ C:\Users\Fergus\Documents\Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldA
 C:\Users\Fergus\Documents\Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldApp.AssemblyInfo.cs
 C:\Users\Fergus\Documents\Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldApp.dll
 C:\Users\Fergus\Documents\Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldApp.pdb
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\bin\Debug\netcoreapp2.0\HelloWorldApp.deps.json
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\bin\Debug\netcoreapp2.0\HelloWorldApp.runtimeconfig.json
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\bin\Debug\netcoreapp2.0\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\bin\Debug\netcoreapp2.0\HelloWorldApp.dll
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\bin\Debug\netcoreapp2.0\HelloWorldApp.pdb
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldApp.dll
+C:\Users\Fergus\Documents\C-Test\HelloWorldApp\obj\Debug\netcoreapp2.0\HelloWorldApp.pdb

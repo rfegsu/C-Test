@@ -1,4 +1,5 @@
 ﻿using System;
+using test;
 
 namespace HelloWorldApp
 {
@@ -6,7 +7,8 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Test name = new Test("Hello World");
+            Console.WriteLine(name.getString());
         }
     }
 }

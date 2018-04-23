@@ -670,11 +670,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "c:\\Users\\Fergus\\Documents\\Test\\C-Test\\HelloWorldApp\\HelloWorldApp.csproj",
       "projectName": "HelloWorldApp",
       "projectPath": "c:\\Users\\Fergus\\Documents\\Test\\C-Test\\HelloWorldApp\\HelloWorldApp.csproj",
       "packagesPath": "C:\\Users\\Fergus\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\Fergus\\Documents\\Test\\C-Test\\HelloWorldApp\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Fergus\\Documents\\C-Test\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectName": "HelloWorldApp",
+      "projectPath": "C:\\Users\\Fergus\\Documents\\C-Test\\HelloWorldApp\\HelloWorldApp.csproj",
+      "packagesPath": "C:\\Users\\Fergus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fergus\\Documents\\C-Test\\HelloWorldApp\\obj\\",
+>>>>>>> 84c5fbbc832f5728be744e21e21126d181ccd217
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
