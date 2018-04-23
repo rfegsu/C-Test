@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fergus\\Documents\\C-Test\\KaprekarsNumber\\KaprekarsNumber.csproj",
-      "projectName": "KaprekarsNumber",
-      "projectPath": "C:\\Users\\Fergus\\Documents\\C-Test\\KaprekarsNumber\\KaprekarsNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Fergus\\Documents\\C-Test\\test\\test.csproj",
+      "projectName": "test",
+      "projectPath": "C:\\Users\\Fergus\\Documents\\C-Test\\test\\test.csproj",
       "packagesPath": "C:\\Users\\Fergus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fergus\\Documents\\C-Test\\KaprekarsNumber\\obj\\",
+      "outputPath": "C:\\Users\\Fergus\\Documents\\C-Test\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
